@@ -1,135 +1,250 @@
-大湾区卫视,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dwqws
-广西卫视,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=gxws
-广东珠江,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=gdzj
-凤凰香港,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=fhhk
-TVB翡翠台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbfc
-TVB明珠台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbmzt
-TVB无线新闻台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbwxxw
-TVB J2,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbj2
-TVB星河台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbxh
-TVB千禧经典台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbjd
-TVB娱乐新闻台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbylxw
-TVB亚洲台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbyz
-中天综合,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ztzh
-中天新闻,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ztxw
-中天娱乐,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ztyl
-中天亚洲,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ztyz
-非凡新闻,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ffxw
-台视综合,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tszh
-台视新闻,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tsxw
-民视,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ms
-民视新闻,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=msxw
-民视台湾台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=mstwt
-寰宇新闻,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hyxw
-中视,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=zs
-中视新闻,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=zsxw
-华视,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hs
-公视台语台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=gsty
-东森综合,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dszh
-东森新闻,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dsxw
-东森财经新闻,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dscjxw
-东森电影台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dsdy
-东森戏剧台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dsxj
-东森洋片台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dsyp
-DAZN1,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dazn1
-华艺中文台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hyzwt
-TVBS,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbs
-TVBS新闻台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbsxw
-TVBS欢乐台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbshl
-EYE TV旅游台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=eyely
-EYE TV戏剧台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=eyexj
-靖天国际台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=jtgh
-靖天卡通台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=jtkt
-YoYo TV,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=yytv
-美亚电影台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=mydy
-TLC,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tlc
-阿里郎,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=arl
-博斯运动台壹,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bsyd1
-博斯运动台贰,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bsyd2
-博斯高球台贰,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bsgqt2
-博斯网球台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bswqt
-博斯无限台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bswxt
-纬来综合台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wlzh
-纬来育乐台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wlyl
-纬来戏剧台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wlxj
-纬来体育台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wlty
-纬来日本台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wljp
-纬来精采台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wljc
-DW,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dw
-三立综合台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=slzh
-三立台湾台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=sltw
-三立戏剧台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=slxj
-三立都会台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=sldh
-年代新闻,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ndxw
-HBO Signature,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hbo
-HBO HD,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hbohd
-Hollywood Movies,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hlwd
-八大综合台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bdzh
-八大第一台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bddy
-八大戏剧台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bdxj
-八大娱乐台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bdyl
-Viu TV,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=viu1
-Viu Six,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=viu6
-龙华戏剧台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=lhxj
-龙华偶像台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=lhox
-龙华经典台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=lhjd
-大爱,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=da
-好消息2台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=good2
-亚洲美食台,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=afc
-MTV Live,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=mtv
-龙祥时代,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=lxsd
-天映频道,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=typd
-ELTA综合,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=elta
-AXN Taiwan,http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=axn
-CHC影迷电影,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=324&n=chchd_2000
-CHC家庭影院,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=590&n=chcjthd_2000
-CHC动作电影,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=592&n=chcdzhd_2000
-CGTN-NEWS,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=638&n=cgtnnewshd_2000
-CGTN-环球纪录,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=644&n=cgtnhqjlhd_2000
-CGTN-英语,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=716&n=cgtnnewshd_2000
-CGTN-纪录,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=715&n=cgtnhqjlhd_2000
-凤凰资讯台,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=715&n=fhzxhd_2000
-凤凰中文台,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=715&n=fhzwhd_2000
-CCTV-1高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=304&n=cctv1hd_2000
-CCTV-2高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=38&n=cctv2hd_2000
-CCTV-3高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=306&n=cctv3hd_2000
-CCTV-4高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=34&n=cctv4hd_2000
-CCTV-5高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=308&n=cctv5hd_2000
-CCTV-5+高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=314&n=cctv5plushd_2000
-CCTV-6高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=310&n=cctv6hd_2000
-CCTV-7高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=536&n=cctv7hd_2000
-CCTV-8高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=312&n=cctv8hd_2000
-CCTV-9高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=82&n=cctv9hd_2000
-CCTV-10高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=44&n=cctv10_1200
-CCTV-11高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=538&n=cctv11hd_2000
-CCTV-12高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=540&n=cctv12hd_2000
-CCTV-13高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=46&n=cctv13_1200
-CCTV-14高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=546&n=cctv14_2000
-CCTV-15高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=548&n=cctv15_2000
-CCTV-16高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=632&n=cctv16hd_2000
-CCTV-17高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=550&n=cctv17_2000
-CCTV-卫生健康,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=550&n=klcdhd_2000
-湖南卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=290&n=hnwshd_2000
-广东卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=542&n=gdwshd_2000
-山东卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=280&n=sdwshd_2000
-江苏卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=294&n=jswshd_2000
-北京卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=288&n=bjwshd_2000
-东方卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=286&n=dfwshd_2000
-浙江卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=292&n=zjwshd_2000
-深圳卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=284&n=szwshd_2000
-东南卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=58&n=dnwshd_2000
-厦门卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=24&n=xm1_1200
-天津卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=558&n=tjwshd_2000
-安徽卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=562&n=ahwshd_2000
-湖北卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=552&n=hbwshd_2000
-辽宁卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=560&n=lnwshd_2000
-黑龙江卫视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=544&n=hljwshd_2000
-福建导视高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=60&n=dspd_1200
-福建1套高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=4&n=fj1hd_2000
-福建4套高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=568&n=fjxwhd_2000
-福建电视剧,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=588&n=fjdsjhd_2000
-福建教育,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=713&n=fjjyhd_2000
-福州1套高清,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=56&n=fz1hd_2000
-福州2套,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=582&n=fz2hd_2000
-福州3套,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=512&n=fz3hd_2000
-福州4套,http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=584&n=fz4hd_2000
+#EXTM3U
+#EXTINF:-1 group-title="地方/境外",大湾区卫视
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dwqws
+#EXTINF:-1 group-title="地方/境外",广西卫视
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=gxws
+#EXTINF:-1 group-title="地方/境外",广东珠江
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=gdzj
+#EXTINF:-1 group-title="地方/境外",凤凰香港
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=fhhk
+#EXTINF:-1 group-title="地方/境外",TVB翡翠台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbfc
+#EXTINF:-1 group-title="地方/境外",TVB明珠台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbmzt
+#EXTINF:-1 group-title="地方/境外",TVB无线新闻台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbwxxw
+#EXTINF:-1 group-title="地方/境外",TVB J2
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbj2
+#EXTINF:-1 group-title="地方/境外",TVB星河台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbxh
+#EXTINF:-1 group-title="地方/境外",TVB千禧经典台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbjd
+#EXTINF:-1 group-title="地方/境外",TVB娱乐新闻台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbylxw
+#EXTINF:-1 group-title="地方/境外",TVB亚洲台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbyz
+#EXTINF:-1 group-title="地方/境外",中天综合
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ztzh
+#EXTINF:-1 group-title="地方/境外",中天新闻
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ztxw
+#EXTINF:-1 group-title="地方/境外",中天娱乐
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ztyl
+#EXTINF:-1 group-title="地方/境外",中天亚洲
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ztyz
+#EXTINF:-1 group-title="地方/境外",非凡新闻
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ffxw
+#EXTINF:-1 group-title="地方/境外",台视综合
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tszh
+#EXTINF:-1 group-title="地方/境外",台视新闻
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tsxw
+#EXTINF:-1 group-title="地方/境外",民视
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ms
+#EXTINF:-1 group-title="地方/境外",民视新闻
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=msxw
+#EXTINF:-1 group-title="地方/境外",民视台湾台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=mstwt
+#EXTINF:-1 group-title="地方/境外",寰宇新闻
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hyxw
+#EXTINF:-1 group-title="地方/境外",中视
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=zs
+#EXTINF:-1 group-title="地方/境外",中视新闻
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=zsxw
+#EXTINF:-1 group-title="地方/境外",华视
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hs
+#EXTINF:-1 group-title="地方/境外",公视台语台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=gsty
+#EXTINF:-1 group-title="地方/境外",东森综合
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dszh
+#EXTINF:-1 group-title="地方/境外",东森新闻
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dsxw
+#EXTINF:-1 group-title="地方/境外",东森财经新闻
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dscjxw
+#EXTINF:-1 group-title="地方/境外",东森电影台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dsdy
+#EXTINF:-1 group-title="地方/境外",东森戏剧台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dsxj
+#EXTINF:-1 group-title="地方/境外",东森洋片台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dsyp
+#EXTINF:-1 group-title="地方/境外",DAZN1
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dazn1
+#EXTINF:-1 group-title="地方/境外",华艺中文台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hyzwt
+#EXTINF:-1 group-title="地方/境外",TVBS
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbs
+#EXTINF:-1 group-title="地方/境外",TVBS新闻台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbsxw
+#EXTINF:-1 group-title="地方/境外",TVBS欢乐台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tvbshl
+#EXTINF:-1 group-title="地方/境外",EYE TV旅游台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=eyely
+#EXTINF:-1 group-title="地方/境外",EYE TV戏剧台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=eyexj
+#EXTINF:-1 group-title="地方/境外",靖天国际台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=jtgh
+#EXTINF:-1 group-title="地方/境外",靖天卡通台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=jtkt
+#EXTINF:-1 group-title="地方/境外",YoYo TV
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=yytv
+#EXTINF:-1 group-title="地方/境外",美亚电影台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=mydy
+#EXTINF:-1 group-title="地方/境外",TLC
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=tlc
+#EXTINF:-1 group-title="地方/境外",阿里郎
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=arl
+#EXTINF:-1 group-title="地方/境外",博斯运动台壹
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bsyd1
+#EXTINF:-1 group-title="地方/境外",博斯运动台贰
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bsyd2
+#EXTINF:-1 group-title="地方/境外",博斯高球台贰
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bsgqt2
+#EXTINF:-1 group-title="地方/境外",博斯网球台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bswqt
+#EXTINF:-1 group-title="地方/境外",博斯无限台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bswxt
+#EXTINF:-1 group-title="地方/境外",纬来综合台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wlzh
+#EXTINF:-1 group-title="地方/境外",纬来育乐台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wlyl
+#EXTINF:-1 group-title="地方/境外",纬来戏剧台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wlxj
+#EXTINF:-1 group-title="地方/境外",纬来体育台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wlty
+#EXTINF:-1 group-title="地方/境外",纬来日本台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wljp
+#EXTINF:-1 group-title="地方/境外",纬来精采台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=wljc
+#EXTINF:-1 group-title="地方/境外",DW
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=dw
+#EXTINF:-1 group-title="地方/境外",三立综合台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=slzh
+#EXTINF:-1 group-title="地方/境外",三立台湾台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=sltw
+#EXTINF:-1 group-title="地方/境外",三立戏剧台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=slxj
+#EXTINF:-1 group-title="地方/境外",三立都会台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=sldh
+#EXTINF:-1 group-title="地方/境外",年代新闻
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=ndxw
+#EXTINF:-1 group-title="地方/境外",HBO Signature
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hbo
+#EXTINF:-1 group-title="地方/境外",HBO HD
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hbohd
+#EXTINF:-1 group-title="地方/境外",Hollywood Movies
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=hlwd
+#EXTINF:-1 group-title="地方/境外",八大综合台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bdzh
+#EXTINF:-1 group-title="地方/境外",八大第一台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bddy
+#EXTINF:-1 group-title="地方/境外",八大戏剧台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bdxj
+#EXTINF:-1 group-title="地方/境外",八大娱乐台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=bdyl
+#EXTINF:-1 group-title="地方/境外",Viu TV
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=viu1
+#EXTINF:-1 group-title="地方/境外",Viu Six
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=viu6
+#EXTINF:-1 group-title="地方/境外",龙华戏剧台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=lhxj
+#EXTINF:-1 group-title="地方/境外",龙华偶像台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=lhox
+#EXTINF:-1 group-title="地方/境外",龙华经典台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=lhjd
+#EXTINF:-1 group-title="地方/境外",大爱
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=da
+#EXTINF:-1 group-title="地方/境外",好消息2台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=good2
+#EXTINF:-1 group-title="地方/境外",亚洲美食台
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=afc
+#EXTINF:-1 group-title="地方/境外",MTV Live
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=mtv
+#EXTINF:-1 group-title="地方/境外",龙祥时代
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=lxsd
+#EXTINF:-1 group-title="地方/境外",天映频道
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=typd
+#EXTINF:-1 group-title="地方/境外",ELTA综合
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=elta
+#EXTINF:-1 group-title="地方/境外",AXN Taiwan
+http://kaniptv.com/xz/xz_eb725c696c/wwkds.php?id=axn
+#EXTINF:-1 group-title="电影/纪录",CHC影迷电影
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=324&n=chchd_2000
+#EXTINF:-1 group-title="电影/纪录",CHC家庭影院
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=590&n=chcjthd_2000
+#EXTINF:-1 group-title="电影/纪录",CHC动作电影
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=592&n=chcdzhd_2000
+#EXTINF:-1 group-title="CGTN/凤凰",CGTN-NEWS
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=638&n=cgtnnewshd_2000
+#EXTINF:-1 group-title="CGTN/凤凰",CGTN-环球纪录
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=644&n=cgtnhqjlhd_2000
+#EXTINF:-1 group-title="CGTN/凤凰",CGTN-英语
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=716&n=cgtnnewshd_2000
+#EXTINF:-1 group-title="CGTN/凤凰",CGTN-纪录
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=715&n=cgtnhqjlhd_2000
+#EXTINF:-1 group-title="CGTN/凤凰",凤凰资讯台
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=715&n=fhzxhd_2000
+#EXTINF:-1 group-title="CGTN/凤凰",凤凰中文台
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=715&n=fhzwhd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-1高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=304&n=cctv1hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-2高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=38&n=cctv2hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-3高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=306&n=cctv3hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-4高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=34&n=cctv4hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-5高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=308&n=cctv5hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-5+高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=314&n=cctv5plushd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-6高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=310&n=cctv6hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-7高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=536&n=cctv7hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-8高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=312&n=cctv8hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-9高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=82&n=cctv9hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-10高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=44&n=cctv10_1200
+#EXTINF:-1 group-title="央视频道",CCTV-11高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=538&n=cctv11hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-12高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=540&n=cctv12hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-13高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=46&n=cctv13_1200
+#EXTINF:-1 group-title="央视频道",CCTV-14高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=546&n=cctv14_2000
+#EXTINF:-1 group-title="央视频道",CCTV-15高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=548&n=cctv15_2000
+#EXTINF:-1 group-title="央视频道",CCTV-16高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=632&n=cctv16hd_2000
+#EXTINF:-1 group-title="央视频道",CCTV-17高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=550&n=cctv17_2000
+#EXTINF:-1 group-title="央视频道",CCTV-卫生健康
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=550&n=klcdhd_2000
+#EXTINF:-1 group-title="卫视频道",湖南卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=290&n=hnwshd_2000
+#EXTINF:-1 group-title="卫视频道",广东卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=542&n=gdwshd_2000
+#EXTINF:-1 group-title="卫视频道",山东卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=280&n=sdwshd_2000
+#EXTINF:-1 group-title="卫视频道",江苏卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=294&n=jswshd_2000
+#EXTINF:-1 group-title="卫视频道",北京卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=288&n=bjwshd_2000
+#EXTINF:-1 group-title="卫视频道",东方卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=286&n=dfwshd_2000
+#EXTINF:-1 group-title="卫视频道",浙江卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=292&n=zjwshd_2000
+#EXTINF:-1 group-title="卫视频道",深圳卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=284&n=szwshd_2000
+#EXTINF:-1 group-title="卫视频道",东南卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=58&n=dnwshd_2000
+#EXTINF:-1 group-title="卫视频道",厦门卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=24&n=xm1_1200
+#EXTINF:-1 group-title="卫视频道",天津卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=558&n=tjwshd_2000
+#EXTINF:-1 group-title="卫视频道",安徽卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=562&n=ahwshd_2000
+#EXTINF:-1 group-title="卫视频道",湖北卫视高清
+http://nn.7x9d.cn/xz/xz_5ab471307a/fjgd.php?cid=552&n=hbwshd_2000
+#EXTINF:-1 group-title="卫视频道",辽宁卫视高清
